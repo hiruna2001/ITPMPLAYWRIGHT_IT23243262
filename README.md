@@ -4,7 +4,7 @@
 Automated Testing for Singlish to Sinhala Transliteration System
 
 ##  Repository
-
+https://github.com/hiruna2001/ITPMPLAYWRIGHT_IT23243262.git
 
 ---
 
